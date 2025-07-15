@@ -8,7 +8,7 @@ Commands to execute in each labtainers present in this direcotry.
 Each labtainer is delimited with a line full of =.
 If a labtainer has multiple instances in which you have to run commands, these instances are indicated by
 a line full of - followed by the name of the instance (e.g: server, client ...)
-Script made by Anton Moulin aka Y0plait.
+Script made by y0plait ©.
 https://github.com/Y0plait/
 EOF
 echo "Extraction of repaired archive: done"
